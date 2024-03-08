@@ -1,0 +1,10 @@
+{
+    "name": "Zotero Cat",
+    "version": "0.0.1",
+    "description": "This plugin allows downloading your Zotero collection directly into the Cat to interact with your research papers",
+    "author_name": "Sanket Sabharwal, Nicola Corbellini",
+    "author_url": "",
+    "plugin_url": "https://github.com/coconutcow/CheshireCatResearch",
+    "tags": "zotero, research",
+    "thumb": ""
+}

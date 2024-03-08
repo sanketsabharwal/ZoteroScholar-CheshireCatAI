@@ -1,5 +1,7 @@
-from pyzotero import zotero
 import os
+from pyzotero import zotero
+
+from cat.log import log
 
 class ZoteroDownloader:
     def __init__(self, user_id, api_key, base_path="data/zotero_papers"):
@@ -41,8 +43,8 @@ class ZoteroDownloader:
                         # Save the PDF file to the specified path
                         with open(pdf_path, 'wb') as pdf_file:
                             pdf_file.write(pdf_content)
-                        print(f"Successfully downloaded: {filename}")
+                        log.info(f"Successfully downloaded: {filename}")
                     except Exception as e:
-                        print(f"Error downloading {filename}: {e}")
+                        log.error(f"Error downloading {filename}: {e}")
                 else:
-                    print(f"File already exists. Skipping: {filename}")
+                    log.warning(f"File already exists. Skipping: {filename}")
