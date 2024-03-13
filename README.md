@@ -1,6 +1,8 @@
+![zotero-scholar-cheshirecat-ai](zotero-scholar-cheshire-cat.png)
 # ZoteroScholar
+### Powered by [Cheshire Cat AI](https://pages.github.com/](https://github.com/cheshire-cat-ai/core)
 
-Enhance your research workflow with ZoteroScholar, a tool that integrates the powerful Zotero document management system with the natural language processing capabilities of Ollama. Perfect for academics, researchers, and anyone looking to efficiently search through their collection of research-related documents.
+Enhance your research workflow with ZoteroScholar that now comes with the goodness of CheshireCat AI! 
 
 ## Features
 
