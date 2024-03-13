@@ -1,6 +1,6 @@
 ![zotero-scholar-cheshirecat-ai](zotero-scholar-cheshire-cat.png)
 # ZoteroScholar
-### Powered by [Cheshire Cat AI](https://pages.github.com/](https://github.com/cheshire-cat-ai/core)
+#### Powered by [Cheshire Cat AI](https://github.com/cheshire-cat-ai/core)
 
 Enhance your research workflow with ZoteroScholar that now comes with the goodness of CheshireCat AI! 
 
